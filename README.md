@@ -1,24 +1,9 @@
-Here's a `README.md` file for your GitHub repository that includes instructions on setting up, building, running, and testing the Akka HTTP CRUD API:
-
-```markdown
 # Akka HTTP CRUD API
 
 This project is a simple CRUD (Create, Read, Update, Delete) API built with Akka HTTP and Scala. It reads from and writes to a text file (`data.txt`).
 
 ## Project Structure
 
-```
-untitled
-├── build.sbt
-└── src
-    └── main
-        └── scala
-            └── com
-                └── example
-                    ├── AkkaHttpApi.scala
-                    └── FileUtil.scala
-└── data.txt
-```
 
 ## Prerequisites
 
